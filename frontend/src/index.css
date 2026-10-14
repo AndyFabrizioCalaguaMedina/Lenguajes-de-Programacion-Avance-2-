@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Identidad HCG Multiservicios: azul marino y dorado del logo */
+@theme {
+  --color-hcg-navy: #0f2b4f;
+  --color-hcg-navy-dark: #0a1f3a;
+  --color-hcg-navy-soft: #16365f;
+  --color-hcg-gold: #c79a3b;
+  --color-hcg-gold-soft: #f6ecd2;
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+
+body {
+  background-color: #f1f5f9;
+  color: #1e293b;
+}
